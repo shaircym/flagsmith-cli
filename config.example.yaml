@@ -1,0 +1,5 @@
+environments:
+  staging:
+    key: "ser.your-staging-server-side-key"  # From Environment Settings > API Access
+  production:
+    key: "ser.your-production-server-side-key"  # From Environment Settings > API Access
